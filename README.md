@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Karthick V, Full Stack Web Developer :computer:<br>
   <br>
-    <img src="https://camo.githubusercontent.com/36339626328f47e7353b94d9fb96d9434a6649f3c66a6127ed4e996c0a096fcd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="Coder GIF" width="5000">
+    <img src="https://camo.githubusercontent.com/36339626328f47e7353b94d9fb96d9434a6649f3c66a6127ed4e996c0a096fcd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="Coder GIF" width="980">
  </abc>
 </h2> 
 
