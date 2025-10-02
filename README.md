@@ -31,7 +31,7 @@
 - ☁️ Cloud & Networking enthusiast exploring scalable web architecture  
 - ⚙️ Currently learning DevOps and infra automation  
 - 🤝 Open to meaningful collaborations & exciting hackathon challenges  
-- 🔁 Motto: **Build → Break → Learn → Repeat**  
+- 🔁 **Build → Break → Learn → Repeat**  
 - ⚡ I enjoy automating boring stuff & boosting developer workflows  
 
 <h2 align="left">:heart: Let's get connected:</h2>
